@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Notebook\repos\Project1\Source.cpp(1,1): warning C4005: GLEW_STATIC: изменение макроопределения
+D:\Notebook\repos\Project1\Source.cpp(1,1): message : "GLEW_STATIC" ранее объявлен в командной строке
+D:\Notebook\repos\Project1\V.h(40,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Notebook\repos\Project1\Source.cpp(102,28): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+D:\Notebook\repos\Project1\Source.cpp(103,38): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+D:\Notebook\repos\Project1\Source.cpp(105,39): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+  Project1.vcxproj -> D:\Notebook\repos\Project1\x64\Debug\Project1.exe
